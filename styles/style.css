@@ -60,15 +60,6 @@ nav ul li a{
     display: flex;
     align-items: center;
 }
-.banner-subtitle{
-
-}
-.banner-title{
-
-}
-.banner-details{
-
-}
 .banner-btn{
     margin-top: 15px;
 }
@@ -105,23 +96,10 @@ nav ul li a{
     margin-bottom: 20px;
 }
 
-.about-me-details{
-
-}
 .about-me-flex{
     padding-top: 60px;
     display: flex;
-    justify-content: space-around;
-    
-}
-.about-info{
-
-}
-.info-title{
-
-}
-.info-details{
-
+    justify-content: space-around;   
 }
 /*What I do style*/
 .what-i-do{
