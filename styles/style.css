@@ -76,7 +76,7 @@ nav ul li a{
 
 .top-banner-download-cv-btn{
     background: #007EA7;
-    border: 0;
+    border: 2px solid #007EA7;
     padding: 10px 15px;
     color: white;
     font-weight: 700;
