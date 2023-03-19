@@ -14,6 +14,7 @@
     font-weight: 700;
     font-size: 20px;
     border-radius: 3px 3px;
+    
 }
 section{
     margin: 130px 200px;
@@ -73,8 +74,8 @@ nav ul li a{
     border-radius: 3px 3px;
 }
 .top-banner-contact-btn{
-    background: #007EA7;
-    border: 0;
+    background: #60bedb;
+    border: 2px solid #007EA7;
     padding: 10px 15px;
     color: white;
     font-weight: 700;
@@ -133,6 +134,20 @@ nav ul li a{
     display: flex;
     gap: 20px;
 }
+.resume-btn{
+       padding: 5px 5px;
+       
+}
+
+.resume-btn button{
+    background-color: #007EA7;
+    text-decoration: none;
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 3px;
+
+}
 .edu-and-exp{
     font-weight: 700;
     
@@ -190,4 +205,9 @@ color: #6a6a6a;
     border-radius: 3px;
     border: none;
     width: 100%;
+}
+.footer-area{
+    padding: 20px;
+    text-align: center;
+    background-color: #60bedb;
 }
