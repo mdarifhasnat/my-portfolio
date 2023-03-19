@@ -57,13 +57,23 @@ nav ul li a{
 }
 
 .banner{
-    margin: 0 200px;
+    
     display: flex;
     align-items: center;
+    position: relative;
+	margin:0 200px; padding: 0;
+	outline: 0;
+
 }
 .banner-btn{
     margin-top: 15px;
 }
+.banner-left{
+    width: 60%;
+}
+.banner img{width: 50%}
+
+
 .top-banner-download-cv-btn{
     background: #007EA7;
     border: 0;
